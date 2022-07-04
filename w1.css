@@ -1,0 +1,33 @@
+.type1{ position:absolute;
+    top:350px;
+    left:50px;
+
+}
+
+.type2{
+    position:absolute;
+    top:350px;
+    left:500px;
+
+
+}
+.type3{
+    position:absolute;
+    top:500px;
+    left:100px;
+}
+.type4{
+    position:absolute;
+    top:500px;
+    left:570px;
+}
+.type5{
+    position:absolute;
+    top:350px;
+    left:900px;
+}
+
+.type6{
+    position:absolute;
+    top:500px;
+    left:940px;}
